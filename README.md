@@ -1,4 +1,5 @@
-# Reconhecedor de Dígitos em blocos com Perceptron (0-9) - React & TypeScript
+# Treinamento de Perceptron
+## Digitos de (0-9) React & TypeScript
 
 
 [![Perceptron Training](https://img.shields.io/badge/Perceptron%20Training-Active-informational)](URL_PARA_SEU_PROJETO_OU_EXPLICAÇÃO)
